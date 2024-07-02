@@ -1,4 +1,5 @@
-
+# Reference Link:
+[case-7](https://www.technomaxme.com/case-study-on-crude-oil-stripper-pump/)
 
 # Vignette for Coupling Damage in Crude Oil Stripper Pump
 
