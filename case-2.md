@@ -83,7 +83,7 @@ Misalignment:
 - Both types can generate high amplitude peaks at higher harmonics (4X-8X) when severe.
 
 Bent Shaft:
-- Causes high axial vibration with 180° phase differences on same machine component.
+- Causes high axial vibration with 180° phase differences on same machine component
 - Dominant vibration at 1X if bent near shaft center, 2X if bent near coupling.
 
 Based on these facts, your analysis seems more aligned with the symptoms you've described (3X dominance and its harmonics). Your recommendations for close monitoring, inspecting bearings, checking alignment, and ensuring proper machine base support are appropriate steps given the possibility of looseness or misalignment.
