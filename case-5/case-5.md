@@ -1,3 +1,7 @@
+# Conversation link:
+
+[case-5](https://aws3.link/FaFpHy)
+
 **Root Cause:** Crack formation in the impeller of a Fly Ash Slurry Pump
 
 Observations from Different Positions of the Motor and Pump
@@ -48,3 +52,57 @@ To further confirm the diagnosis and ensure accurate fault detection, the follow
 
 By following these steps, the diagnosis can be confirmed, and measures can be taken to ensure the longevity and efficient operation of the pump."
 
+# Facts:
+
+
+Misalignment:
+
+1. Angular Misalignment:
+   - Characterized by high axial vibration, 180° out-of-phase across the coupling.
+   - Typically has high vibration at both 1X and 2X RPM.
+   - Can excite many 1X RPM harmonics when severe.
+
+2. Parallel Misalignment:
+   - Shows high radial vibration, 180° out-of-phase across coupling.
+   - 2X RPM often larger than 1X RPM.
+   - When severe, can generate high amplitude peaks at higher harmonics (4X-8X).
+
+3. General Misalignment:
+   - Can generate either high amplitude peaks at much higher harmonics (4X-8X) or a series of high frequency harmonics when severe.
+   - Coupling type and material can greatly influence the entire spectrum.
+   - Does not typically have a raised noise floor.
+
+Bearing Issues:
+
+1. Rolling Element Bearing Failure Stages:
+   - Stage 1: Earliest indications appear in ultrasonic frequencies (250,000 - 350,000 Hz).
+   - Stage 2: Excitation of bearing component natural frequencies (30K - 120K CPM range).
+   - Stage 3: Bearing defect frequencies and harmonics appear with sidebands.
+   - Stage 4: Amplitude of 1X RPM is affected, discrete frequencies disappear, replaced by random broadband high frequency noise floor.
+
+Cavitation or Hydraulic Related Issues:
+
+1. Cavitation:
+   - Generates random, higher frequency broadband energy.
+   - Sometimes superimposed with blade pass frequency harmonics.
+   - Indicates insufficient suction pressure (starvation).
+   - Can be quite destructive to pump internals if left uncorrected.
+   - Often sounds as if "gravel" is passing through pump.
+
+2. Flow Turbulence:
+   - Occurs due to variations in pressure or velocity of the fluid.
+   - Generates random, low frequency vibration, typically in the range of 50 to 2000 CPM.
+   - If surging occurs within a compressor, random broadband high frequency vibration can occur.
+
+Vane Passing Frequency for a Pump:
+
+1. Blade Pass Frequency (BPF) = Number of Blades (or Vanes) X RPM.
+2. Large amplitude BPF (and harmonics) can be generated if gap between rotating vanes and stationary diffusers is not equal all the way around.
+3. BPF (or harmonic) can sometimes coincide with a system natural frequency causing high vibration.
+4. High BPF can be generated if:
+   - Impeller wear ring seizes on shaft
+   - Welds fastening diffuser vanes fail
+   - Abrupt bends in pipe (or duct) are present
+   - Obstructions disturb flow
+   - Damper settings are incorrect
+   - Pump or fan rotor is positioned eccentrically within housing
