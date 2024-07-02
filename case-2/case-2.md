@@ -1,3 +1,7 @@
+# Conversation link:
+
+[case-2](https://spiderai.minto.ai/shared-chat/tBGBSI)
+
 # Vignette for Discharge Pipeline Vibrations in Seal Air Fan System
 
 **Root Cause:** Excessive vibrations in the discharge pipeline during Raw mill operation
