@@ -41,3 +41,30 @@ To address the issues and prevent recurrence, the following actions were taken:
 By replacing both bearings and housings and implementing these follow-up actions, the fan's reliability and operational efficiency should be significantly improved, reducing the risk of unexpected failures and extended downtime.
 
 # Facts: 
+
+    **Looseness Type C (Lc)**
+    - **FG:** **Sub-Synchronous, Synchronous & Harmonic [F_G_4]**
+    - **D_D_R:** Radial and/or Axial (H, V, A)
+    - **Technique:** Time Waveform
+    - **Mathematical Formula Wrt to (m, n, k):** \( f = \frac{1}{n} \times \text{RPM} \) (where \( n = 1, 2, 3, \ldots \))
+    - **Rules of Thumb:** N/A
+    - **Phase Characteristics:** 
+    - Phase measurements are generally unstable.
+    - If the vibration becomes highly directional, the difference between horizontal and vertical directions will be close to 0° or 180°.
+    - **Differentiator:**
+    - Type C is often caused by a loose bearing liner in its cap, excessive clearance in either a sleeve or rolling element bearing, or a loose impeller on a shaft.
+    - The spectrum includes several peaks at various frequencies, indicating a complex vibration pattern.
+    - The spectrum may show subharmonic multiples at exactly 0.5x, 1.5x, 2.5x, etc.
+    - Amplitude is shown at multiple harmonics of the rotational speed, indicating a complex vibration pattern with significant energy at many multiples of the fundamental frequency.
+    - The vibration spectrum may display many harmonics up to 10x or even 20x the rotational frequency.
+    - This type of looseness tends to produce highly directional vibration with relatively high amplitude.
+    - Presence of a distinct 0.5x peak suggests a more complex loosening issue, possibly involving friction.
+
+    Misalignment:
+
+    - Angular misalignment typically shows high 1X and 2X RPM, but 3X can also dominate.
+    - Parallel misalignment often shows 2X RPM larger than 1X, but depends on coupling type.
+    - Severe misalignment can generate high amplitude peaks at 4X-8X or higher harmonics.
+    - Angular Misalignment: High axial vibration, 180° out-of-phase across coupling. Typically has high 1X and 2X RPM.
+    - Parallel Misalignment: High radial vibration, 180° out-of-phase across coupling. 2X often larger than 1X.
+    - Both types can generate high amplitude peaks at higher harmonics (4X-8X) when severe.
