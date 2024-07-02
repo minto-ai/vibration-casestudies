@@ -1,3 +1,5 @@
+
+
 # Vignette for Coupling Damage in Crude Oil Stripper Pump
 
 **Root Cause:** Damaged and worn out coupling between motor and pump
