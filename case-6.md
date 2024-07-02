@@ -1,4 +1,4 @@
-"**Root Cause:** High vertical vibration levels in the motor DE and NDE caused by structural or installation issues.
+**Root Cause:** High vertical vibration levels in the motor DE and NDE caused by structural or installation issues.
 
 **Diagnosis Explanation:**
 

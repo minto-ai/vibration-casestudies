@@ -1,4 +1,4 @@
-"**Root Cause:** Crack formation in the impeller of a Fly Ash Slurry Pump
+**Root Cause:** Crack formation in the impeller of a Fly Ash Slurry Pump
 
 Observations from Different Positions of the Motor and Pump
 
