@@ -1,0 +1,5 @@
+ The actual problem lies with the discharge pipeline. During the Raw mill’s operation, the seal air fan exhibits very high pipe vibrations, leading to elevated vibration values. However, when the Raw mill stop condition, there is a significant drop in the vibration values. This reduction is attributed to the absence of pipe vibrations when the Raw mill is in a stopped condition. Below are my recommendations for addressing the issues with this fan:
+
+Inspect the supports and hangers along the entire discharge pipe for any obstructions, loose supports, or misalignments. Reinforce or replace supports as necessary.
+Inspect the damper and bellows for proper operation. Repair or replace the damper and bellows if they are found to be faulty.
+Ensure there are no obstructions or foreign objects in the fan or pipe system that could cause imbalance or interference. 
