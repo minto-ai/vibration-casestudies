@@ -1,7 +1,3 @@
-# Conversation link:
-[case-1](https://spiderai.minto.ai/shared-chat/SKnYiG)
-
-
 # Vignette for Bearing Rotational Looseness in Motor and Fan Assembly
 
 **Root Cause:** Bearing rotational looseness in motor and/or fan bearings
