@@ -26,12 +26,10 @@
 
 To address the issue and confirm the diagnosis, the following steps are recommended:
 
-1. **Close Monitoring:** Implement continuous vibration monitoring to track the progression of the issue.
-2. **Improve Base Support:** Provide proper support for the machine base to reduce overall vibration.
-3. **Motor Bearing Inspection:** Inspect the motor bearings for clearances and make necessary corrections.
-4. **Fan Bearing Inspection:** Check the fan bearings for looseness with the shaft/housing. If loose, replace the bearings and repair the housing/shaft as needed.
-5. **Alignment Verification:** Cross-check the alignment readings to ensure proper alignment between components.
-6. **Further Analysis:** If these steps don't resolve the issue, consider additional diagnostic techniques to rule out other potential causes.
+1. **Improve Base Support:** Provide proper support for the machine base to reduce overall vibration.
+2. **Motor Bearing Inspection:** Inspect the motor bearings for clearances and make necessary corrections.
+3. **Fan Bearing Inspection:** Check the fan bearings for looseness with the shaft/housing. If loose, replace the bearings and repair the housing/shaft as needed.
+4. **Alignment Verification:** Cross-check the alignment readings to ensure proper alignment between components.
 
 By following these steps, the root cause of the vibration can be confirmed and addressed, improving the reliability and operational efficiency of the motor and fan assembly.
 
