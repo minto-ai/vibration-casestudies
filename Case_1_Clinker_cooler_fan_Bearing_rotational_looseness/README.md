@@ -33,7 +33,7 @@ To address the issue and confirm the diagnosis, the following steps are recommen
 
 By following these steps, the root cause of the vibration can be confirmed and addressed, improving the reliability and operational efficiency of the motor and fan assembly.
 
-## Here's a summary of facts for each fault, including looseness types, misalignment, and unbalance:
+## summary of facts for each fault, including looseness types, misalignment, and unbalance:
 
 Unbalance:
 
