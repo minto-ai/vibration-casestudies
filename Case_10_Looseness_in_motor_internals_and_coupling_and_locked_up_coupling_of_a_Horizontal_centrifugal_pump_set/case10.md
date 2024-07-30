@@ -1,6 +1,6 @@
 # Vignette for looseness in motor internals and coupling, and locked up coupling of a horizontal centrifugal pump set
 
-**Root Cause:** pump half coupling and looseness in motor bearing housing
+**Root Cause:** looseness in motor bearing housing and pump half coupling
 
 **Observations from Different Positions of the pump set**
 
