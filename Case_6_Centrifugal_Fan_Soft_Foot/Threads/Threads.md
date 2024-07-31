@@ -1,5 +1,2 @@
-# Without Case builder
-27-07-2024 14:10: Use Case precision diagnosis: https://spiderai.minto.ai/shared-chat/XkRWPa
-
-# With Case builder
-27-07-2024: https://spiderai.minto.ai/shared-chat/yFovfP
+#### Threads without case builder:
+Thread Created on 27th July 2024: https://spiderai.minto.ai/shared-chat/eiDiLR
